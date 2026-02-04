@@ -1,4 +1,4 @@
-Buổi thực hành 2: Microsoft Excel và Google Sheets
+Buổi thực hành 3: Microsoft Excel và Google Sheets
   Giới thiệu
   Tài liệu này là hướng dẫn thực hành cho buổi học thứ 2, tập trung vào việc làm quen và sử dụng các tính năng cơ bản của Microsoft Excel 2013 và giới thiệu sơ lược về Google Sheets.
 
